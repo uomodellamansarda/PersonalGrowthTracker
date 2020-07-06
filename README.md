@@ -11,7 +11,7 @@ The code also compares the efforts with a 3h daily ideal and costant practice.
 
 At the end of the code, after analyzed the past data as a report and feedback session, I made three estimation about the remaining time to become an expert based on:
 
--Markov Inequality 
+-Markov's Inequality 
 
 -Linear regression (I know that variables are not indipendently and identically distributed)
 
