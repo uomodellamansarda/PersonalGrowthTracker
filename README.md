@@ -8,7 +8,7 @@ The goal is to reach 10.000 hours to be an expert.
 It's just a trivial proxy but gives an idea and a direction and it's enough. 
 
 [The last colab notebook Andrea_Ciufo_Python_Growth](https://github.com/uomodellamansarda/clockworkcsvestimator/blob/master/Andrea_Ciufo_Python_Growth.ipynb) takes as input the link on Google Drive where is located the csv file, and then it starts filtering and processing the data.
-![2021 Forecast](https://github.com/uomodellamansarda/clockworkcsvestimator/blob/master/forcast2021.png?raw=true)
+![2021 Forecast](https://github.com/uomodellamansarda/clockworkcsvestimator/blob/master/forcast2021v2.png?raw=true)
 ![Absolute Growth](https://github.com/uomodellamansarda/clockworkcsvestimator/blob/master/absolutegrowth.png?raw=true)
 
 ![Hours Remaining](https://github.com/uomodellamansarda/clockworkcsvestimator/blob/master/hoursremaining.png?raw=true)
